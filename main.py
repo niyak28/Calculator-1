@@ -12,7 +12,7 @@ while cont==str("y"):
   print("3=-")
   print("4=+")
   op = str(input("operation? "))
-  
+
   if op == "1":
     ans = num1 * num2
   elif op=="2":
